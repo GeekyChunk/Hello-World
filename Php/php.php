@@ -1,4 +1,1 @@
-<?php
-// eebad84
-echo "hello wrold";
-?>
+<?php echo "hello wrold" ?>
